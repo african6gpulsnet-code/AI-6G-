@@ -1,0 +1,6 @@
+{
+  "name": "IS 6G+",
+  "description": "Next-Generation 6G+ Intelligent Telecommunications & AI-RAN Network Studio featuring Sub-THz Spectrum Simulation, ISAC Dual-Sensing, RIS Beamforming, and Autonomous RF Diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
